@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CashMachine", "CashMachine.csproj", "{211B446C-0DA6-444C-BB3B-78F9E90DD854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211B446C-0DA6-444C-BB3B-78F9E90DD854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211B446C-0DA6-444C-BB3B-78F9E90DD854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211B446C-0DA6-444C-BB3B-78F9E90DD854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211B446C-0DA6-444C-BB3B-78F9E90DD854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BCFE77F-6A0B-4CD8-921A-391D1A3C3D19}
+	EndGlobalSection
+EndGlobal
